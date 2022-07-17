@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{13FC0297-BC25-431E-B316-87F2E54693B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Smart Garden", "..\Smart Garden\Smart Garden.vdproj", "{A742CDF6-2BDD-4A96-B395-CE75EABABDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FC0297-BC25-431E-B316-87F2E54693B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FC0297-BC25-431E-B316-87F2E54693B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FC0297-BC25-431E-B316-87F2E54693B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FC0297-BC25-431E-B316-87F2E54693B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A742CDF6-2BDD-4A96-B395-CE75EABABDAD}.Debug|Any CPU.ActiveCfg = Debug
+		{A742CDF6-2BDD-4A96-B395-CE75EABABDAD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E5EE98-B3E7-484C-B860-5D5E40FE426C}
+	EndGlobalSection
+EndGlobal
